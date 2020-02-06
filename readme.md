@@ -6,12 +6,12 @@ Being used:
 
 ## CSS
 
-[sanitize.css](https://github.com/csstools/sanitize.css) уже включен
+[sanitize.css](https://github.com/csstools/sanitize.css) already implemented
 
 Being used:
 
-- scss как основной пре-процессор
-- postcss для пре/пост процессинга (pre -> sass -> post)
+- scss as the main pre-processor
+- postcss for pre-post-processing (pre -> sass -> post)
 - [postcss-easy-import](https://github.com/TrySound/postcss-easy-import)
 - [postcss-property-lookup](https://github.com/notiv-nt/postcss-property-lookup)
 - [postcss-inline-media](https://github.com/dimitrinicolas/postcss-inline-media)

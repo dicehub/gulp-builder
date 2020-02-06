@@ -606,7 +606,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.8.3"
 
-"@babel/plugin-transform-runtime@7.8.4":
+"@babel/plugin-transform-runtime@7.8.3":
   version "7.8.3"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-runtime/-/plugin-transform-runtime-7.8.3.tgz#c0153bc0a5375ebc1f1591cb7eea223adea9f169"
   integrity sha512-/vqUt5Yh+cgPZXXjmaG9NT8aVfThKk7G4OqkVhrXqwsC5soMn/qTCxs36rZ2QFhpfTJcjw4SNDIZ4RUb8OL4jQ==
@@ -4385,7 +4385,7 @@ gulp-rename@^1.2.0:
   resolved "https://registry.yarnpkg.com/gulp-rename/-/gulp-rename-1.4.0.tgz#de1c718e7c4095ae861f7296ef4f3248648240bd"
   integrity sha512-swzbIGb/arEoFK89tPY58vg3Ok1bw+d35PfUNwWqdo7KM4jkmuGA78JiDNqR+JeZFaeeHnRg9N7aihX3YPmsyg==
 
-gulp-sass@^4.0.2:
+gulp-sass@4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/gulp-sass/-/gulp-sass-4.0.2.tgz#cfb1e3eff2bd9852431c7ce87f43880807d8d505"
   integrity sha512-q8psj4+aDrblJMMtRxihNBdovfzGrXJp1l4JU0Sz4b/Mhsi2DPrKFYCGDwjIWRENs04ELVHxdOJQ7Vs98OFohg==
@@ -7533,10 +7533,10 @@ postcss-svgo@^4.0.2:
     postcss-value-parser "^3.0.0"
     svgo "^1.0.0"
 
-postcss-transition@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/postcss-transition/-/postcss-transition-1.0.0.tgz#504c3dc77a3b93007890afb8cdb03fa8cf07c4b7"
-  integrity sha512-XpiouXVP6OESfWwSH1rr1udiVwuNqucqysYze3+3Aw4sfbgK1mwIGbuN1/QosKhqtE/xeAV+2W9ngbbgZWsR9w==
+postcss-transition@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/postcss-transition/-/postcss-transition-1.0.2.tgz#9b81d0f11ecb1c401af9161517f2b83dbc10d4ec"
+  integrity sha512-gxsg2JSmNG+kLn0hS6JgLOmZjaTAqq9dDmAQCdeNLxkJVCo4DSNTciWNJntPbxSDvKyK8oMUpMthmFWhBytNXQ==
   dependencies:
     css-properties-values "^1.0.0"
     postcss "^7.0.14"

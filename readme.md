@@ -1,6 +1,6 @@
 ## HTML
 
-Используется:
+Being used:
 
 - [gulp-include](https://www.npmjs.com/package/gulp-include)
 
@@ -8,7 +8,7 @@
 
 [sanitize.css](https://github.com/csstools/sanitize.css) уже включен
 
-Используется:
+Being used:
 
 - scss как основной пре-процессор
 - postcss для пре/пост процессинга (pre -> sass -> post)
@@ -27,13 +27,13 @@
 
 ## Javascript
 
-Используется:
+Being used:
 
 - [parcel](https://github.com/parcel-bundler/parcel)
 
 ## Images
 
-Используется:
+Being used:
 
 - [gulp-imagemin](https://github.com/postcss/autoprefixer)
 - [imagemin-pngquant](https://github.com/imagemin/imagemin-pngquant)
@@ -43,8 +43,8 @@
 
 ## Static
 
-Копируются как есть
+Is being copied as it is.
 
 ## Svg Icons
 
-Собираются в спрайт и оптимизируются
+Are being compiled to a sprite and are being optimized.
